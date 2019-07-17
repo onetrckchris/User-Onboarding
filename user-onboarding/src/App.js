@@ -1,13 +1,13 @@
 import React from 'react';
 
-import Form from './components/Form';
+import OnboardingForm from './components/OnboardingForm';
 
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <OnboardingForm />
     </div>
   );
 }
